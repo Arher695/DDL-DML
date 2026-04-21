@@ -1,7 +1,7 @@
 package com.example.DDLDDM.controller;
 
-import com.example.ddlddm.model.Person;
-import com.example.ddlddm.repository.PersonRepository;
+import model.Person;
+import com.example.DDLDDM.repository.PersonRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
